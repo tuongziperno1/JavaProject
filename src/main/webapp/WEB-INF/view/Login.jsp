@@ -10,7 +10,8 @@
 <body>
 	<div class="parent clearfix">
     <div class="bg-illustration">
-      <img src="https://i.ibb.co/Pcg0Pk1/logo.png" alt="logo">
+      <a href="http://localhost:8080/DoAnCuoiKy/Home">
+      <img src="https://i.ibb.co/Pcg0Pk1/logo.png" alt="logo"></a>
 
       <div class="burger-btn">
         <span></span>
@@ -20,9 +21,9 @@
 
     </div>
     
-    <div class="login">
+    <div class="login" style= "margin-top: 10px;">
       <div class="container">
-        <h1>Login to access to<br />your account</h1>
+        <h1>Đăng nhập bằng tài khoản<br />của bạn</h1>
     
         <div class="login-form">
           <form action="">
@@ -31,15 +32,20 @@
 
             <div class="remember-form">
               <input type="checkbox">
-              <span>Remember me</span>
+              <span>Nhớ mật khẩu</span>
             </div>
             <div class="forget-pass">
-              <a href="#">Forgot Password ?</a>
+              <a href="http://localhost:8080/DoAnCuoiKy/Register">Đăng Ký !	</a>
             </div>
 
-            <button type="submit">LOG-IN</button>
-
+            <div class="BTN">
+            <button type="submit">Đăng Nhập</button>
+            
+            </div>
+			
           </form>
+          <br>
+         
         </div>
     
       </div>

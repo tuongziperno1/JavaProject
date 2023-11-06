@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 
 @Controller
-@RequestMapping("/DoAn")
 public class demo {
 	
 
@@ -36,5 +35,15 @@ public class demo {
 	public String News()
 	{
 		return "News";
+	}
+	@RequestMapping("/ListCourse")
+	public String ListCourse()
+	{
+		return "ListCourse";
+	}
+	@RequestMapping("/View")
+	public String View()
+	{
+		return "View";
 	}
 }

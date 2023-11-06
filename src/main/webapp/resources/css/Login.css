@@ -58,7 +58,7 @@ img {
 
 .bg-illustration {
   position: relative;
-  height: 100vh;
+  height: 100%;
   width: 1194px;
   background: url("https://i.ibb.co/RhMZprS/jony-Image2-1.png") no-repeat center center scroll;
   background-size: cover;
@@ -66,7 +66,7 @@ img {
   -webkit-animation: bgslide 2.3s forwards;
           animation: bgslide 2.3s forwards;
 }
-.bg-illustration img {
+.bg-illustration a img {
   width: 248px;
   -webkit-user-select: none;
      -moz-user-select: none;
@@ -104,7 +104,7 @@ img {
 
 
 .login {
-  max-height: 100vh;
+  max-height: 100%;
   overflow-Y: auto;
   float: left;
   margin: 0 auto;
@@ -120,9 +120,7 @@ img {
   font-size: 35px;
   font-weight: bolder;
 }
-.login .container .login-form {
-  margin-top: 112px;
-}
+
 .login .container .login-form form {
   display: -ms-grid;
   display: grid;
@@ -142,7 +140,7 @@ img {
   background: -o-linear-gradient(110deg, #f794a4 0%, #fdd6bd 100%);
   background: linear-gradient(-20deg, #f794a4 0%, #fdd6bd 100%);
   border: none;
-  margin-top: 124px;
+  margin-top: 10px;
   margin-bottom: 20px;
   width: 241px;
   height: 58px;
@@ -314,7 +312,7 @@ img {
     margin-top: 40px;
   }
   .login .container .login-form {
-    margin-top: 90px;
+    margin-top: 20px;
   }
   .login .container .login-form form input {
     height: 45px;
@@ -366,4 +364,7 @@ img {
   .forget-pass a:hover::after {
     opacity: 1;
   }
+}
+.btn-login a{
+	border: 1px solid #ccc;
 }

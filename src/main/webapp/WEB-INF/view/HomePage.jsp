@@ -19,19 +19,18 @@
 	    <div class="container">
 	      <div class="row">
 	        <div class="col-12">
-	          <nav class="main-nav">
+	          <nav class="main-nav" >
 	            <!-- ***** Logo Start ***** -->
-	            <a href="#" class="logo">
-	              <img src="assets/images/logo.png" alt="LOGO">
+	            <a href="#" class="logo" style="height: 100px; width: 140px; padding-left: 20px;">
+	              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR07xVcyBh20el_e1OiXYwpZTEaMY6VpT50TA&usqp=CAU" alt="LOGO">
 	            </a>
 	            <!-- ***** Logo End ***** -->
 	            <!-- ***** Menu Start ***** -->
 	            <ul class="nav">
-	              <li class="scroll-to-section"><a href="#top" class="active">Trang Chủ</a></li>
-	              <li class="scroll-to-section"><a href="#services">Khóa Học</a></li>
-	              <li class="scroll-to-section"><a href="#pricing">Nâng Cao</a></li>
-	              <li class="scroll-to-section"><a href="#newsletter">Liên Hệ</a></li>
-	              <li><div class="gradient-button"><a id="modal_trigger" href="#modal"><i class="fa fa-sign-in-alt"></i> Đăng Ký Ngay !</a></div></li> 
+	              <li class="scroll-to-section"><a href="http://localhost:8080/DoAnCuoiKy/Home" class="active">Trang Chủ</a></li>
+	              <li class="scroll-to-section"><a href="http://localhost:8080/DoAnCuoiKy/ListCourse">Khóa Học</a></li>
+	              <li class="scroll-to-section"><a href="http://localhost:8080/DoAnCuoiKy/News">Tin Tức</a></li>
+	              <li><div class="gradient-button"><a id="modal_trigger" href="http://localhost:8080/DoAnCuoiKy/Login"></i> Đăng Nhập </a></div></li> 
 	            </ul>        
 	            <a class='menu-trigger'>
 	                <span>Menu</span>
@@ -51,7 +50,7 @@
 	            <div class="col-lg-6 align-self-center">
 	              <div class="left-content show-up header-text wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1s">
 	                <div class="row">
-	                  <div class="col-lg-12">c
+	                  <div class="col-lg-12">
 	                    <h2>Ở Đâu Có Job Ở Đó Có Tiền</h2>
 	                    <p>Nhiều Tiền Thì Làm Gì. Học Lập Trình Ngay để x2 Số Tiền</p>
 	                  </div>
@@ -67,8 +66,8 @@
 	              </div>
 	            </div>
 	            <div class="col-lg-6">
-	              <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-	                <img src="assets/images/slider-dec.png" alt="">
+	              <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s" style="width: 420px;height: 420px;">
+	                <img src="https://img.freepik.com/vector-premium/conjunto-banners-plataforma-linea_277904-8314.jpg" alt="">
 	              </div>
 	            </div>
 	          </div>
@@ -150,7 +149,7 @@
 	            <span class="price">$12</span>
 	            <h4>Lập Trình Web Nâng Cao</h4>
 	            <div class="icon">
-	              <img src="assets/images/pricing-table-01.png" alt="">
+	              <img src="https://csc.edu.vn/data/images/mon-hoc/lap-trinh/mon-hoc-lap-trinh-vien-javascript.png" alt="">
 	            </div>
 	            <ul>
 	              <li>Lorem Ipsum Dolores</li>
@@ -170,7 +169,7 @@
 	            <span class="price">$25</span>
 	            <h4>Lập Trình Game</h4>
 	            <div class="icon">
-	              <img src="assets/images/pricing-table-01.png" alt="">
+	              <img src="https://tuhoclaptrinh.edu.vn/upload/post/2023/03/08/lap-trinh-game-can-nhung-ky-nang-gi-20230308101337-512383.jpg" alt="">
 	            </div>
 	            <ul>
 	              <li>Lorem Ipsum Dolores</li>
@@ -190,7 +189,7 @@
 	            <span class="price">$66</span>
 	            <h4>Lập Trình Blockchain</h4>
 	            <div class="icon">
-	              <img src="assets/images/pricing-table-01.png" alt="">
+	              <img src="https://tenten.vn/tin-tuc/wp-content/uploads/2023/07/lap-trinh-blockchain-1.png" alt="">
 	            </div>
 	            <ul>
 	              <li>Lorem Ipsum Dolores</li>
@@ -284,12 +283,6 @@
 	              <img src="assets/images/white-logo.png" alt="">
 	            </div>
 	            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-	          </div>
-	        </div>
-	        <div class="col-lg-12">
-	          <div class="copyright-text">
-	            <p>Copyright © 2022 Chain App Dev Company. All Rights Reserved. 
-	          <br>Design: <a href="https://templatemo.com/" target="_blank" title="css templates">TemplateMo</a></p>
 	          </div>
 	        </div>
 	      </div>

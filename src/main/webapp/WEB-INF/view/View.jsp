@@ -40,6 +40,7 @@
 	      </div>
 	    </div>
 	  </header>
+	  
 	  <section class="blog-listing gray-bg" style="padding-top:3rem;">
 	  <section class="blog-listing gray-bg">
         <div class="col-md-4 offset-md-4 mt-5 pt-3">
@@ -54,7 +55,7 @@
             <div class="row align-items-start">
                 <div class="col-lg-8 m-15px-tb">
                     <div class="row">
-                        <div class="col-sm-6">
+                        <div class="col-sm-12">
                             <div class="blog-grid">
                                 <div class="blog-img">
                                     <div class="date">
@@ -66,89 +67,30 @@
                                     </a>
                                 </div>
                                 <div class="blog-info">
-                                    <h5><a href="#">Tổng hợp các sản phẩm của học viên tại IT</a></h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                    <div class="btn-bar">
-                                        <a href="#" class="px-btn-arrow">
-                                            <span>Xem Thêm</span>
-                                            <i class="arrow"></i>
-                                        </a>
-                                    </div>
+                                    <h5><a href="#">Thành công là gì ? Bao lâu thì thành công ?</a></h5>
+                                    <p style="color:#333;">Thành công là một khái niệm trừu tượng, có thể được hiểu theo nhiều cách khác nhau. Đối với mỗi người, thành công có thể là đạt được một mục tiêu, hoàn thành một ước mơ, hay đơn giản là sống một cuộc đời hạnh phúc và ý nghĩa.
+										
+										Để đạt được thành công, chúng ta cần phải nỗ lực, cố gắng và vượt qua những khó khăn, thử thách. Không có thành công nào mà không phải trả giá bằng mồ hôi và nước mắt. Những người thành công là những người không ngại khó khăn, luôn kiên trì theo đuổi mục tiêu của mình.
+										
+										Thành công không chỉ mang lại cho chúng ta niềm vui, hạnh phúc, mà còn giúp chúng ta phát triển bản thân và đóng góp cho xã hội. Khi đạt được thành công, chúng ta sẽ cảm thấy tự tin, hài lòng với bản thân và có thêm động lực để tiếp tục cố gắng. Thành công cũng giúp chúng ta có cơ hội giúp đỡ những người khác, đóng góp cho sự phát triển của xã hội.
+										
+										Mỗi người đều có một định nghĩa riêng về thành công. Điều quan trọng là chúng ta phải xác định được mục tiêu và nỗ lực hết mình để đạt được mục tiêu đó. Hãy nhớ rằng, thành công không phải là đích đến, mà là cả một hành trình.
+										
+										Dưới đây là một số lời khuyên giúp bạn đạt được thành công:<br>
+										
+										- Hãy xác định mục tiêu rõ ràng và cụ thể.<br>
+										- Lập kế hoạch và thực hiện kế hoạch một cách nghiêm túc.<br>
+										- Nỗ lực và kiên trì theo đuổi mục tiêu.<br>
+										- Học hỏi và phát triển bản thân.<br>
+										- Đừng ngại khó khăn, thử thách.<br>
+										- Luôn có thái độ tích cực và lạc quan.<br>
+										Hãy tin tưởng vào bản thân và khả năng của mình, bạn sẽ đạt được thành công.
+										
+									</p>
+                                    
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="blog-grid">
-                                <div class="blog-img">
-                                    <div class="date">
-                                        <span>04</span>
-                                        <label>FEB</label>
-                                    </div>
-                                    <a href="#">
-                                        <img src="https://files.fullstack.edu.vn/f8-prod/blog_posts/51/6139c6453456e.png" title="" alt="">
-                                    </a>
-                                </div>
-                                <div class="blog-info">
-                                    <h5><a href="#">Ký sự ngày thứ 25 học ở IT </a></h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                    <div class="btn-bar">
-                                        <a href="#" class="px-btn-arrow">
-                                            <span>Xem Thêm</span>
-                                            <i class="arrow"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="blog-grid">
-                                <div class="blog-img">
-                                    <div class="date">
-                                        <span>04</span>
-                                        <label>FEB</label>
-                                    </div>
-                                    <a href="#">
-                                        <img src="https://i.ytimg.com/vi/oF7isq9IjZM/maxresdefault.jpg" title="" alt="">
-                                    </a>
-                                </div>
-                                <div class="blog-info">
-                                    <h5><a href="#">Làm sao để có thu nhập cao và đi xa hơn trong ngành IT?</a></h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                    <div class="btn-bar">
-                                        <a href="#" class="px-btn-arrow">
-                                            <span>Xem Thêm</span>
-                                            <i class="arrow"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6">
-                            <div class="blog-grid">
-                                <div class="blog-img">
-                                    <div class="date">
-                                        <span>04</span>
-                                        <label>FEB</label>
-                                    </div>
-                                    <a href="#">
-                                        <img src="	https://i.ytimg.com/vi/YH-E4Y3EaT4/maxresdefault.jpg" title="" alt="">
-                                    </a>
-                                </div>
-                                <div class="blog-info">
-                                    <h5><a href="#">Sinh viên IT đi thực tập tại doanh nghiệp cần biết những gì?</a></h5>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                    <div class="btn-bar">
-                                        <a href="#" class="px-btn-arrow">
-                                            <span>Xem Thêm</span>
-                                            <i class="arrow"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                       
-
-                        
+                        </div>  
                     </div>
                 </div>
 

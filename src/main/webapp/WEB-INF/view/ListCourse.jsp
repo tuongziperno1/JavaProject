@@ -62,11 +62,11 @@
                                         <label>FEB</label>
                                     </div>
                                     <a href="#">
-                                        <img src="	https://files.fullstack.edu.vn/f8-prod/blog_posts/65/6139fe28a9844.png" title="" alt="">
+                                        <img src="https://files.fullstack.edu.vn/f8-prod/courses/21/63e1bcbaed1dd.png" title="" alt="">
                                     </a>
                                 </div>
                                 <div class="blog-info">
-                                    <h5><a href="#">Tổng hợp các sản phẩm của học viên tại IT</a></h5>
+                                    <h5><a href="#">Lập trình C++ cơ bản, nâng cao</a></h5>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                     <div class="btn-bar">
                                         <a href="#" class="px-btn-arrow">
@@ -85,11 +85,11 @@
                                         <label>FEB</label>
                                     </div>
                                     <a href="#">
-                                        <img src="https://files.fullstack.edu.vn/f8-prod/blog_posts/51/6139c6453456e.png" title="" alt="">
+                                        <img src="https://files.fullstack.edu.vn/f8-prod/courses/2.png" title="" alt="">
                                     </a>
                                 </div>
                                 <div class="blog-info">
-                                    <h5><a href="#">Ký sự ngày thứ 25 học ở IT </a></h5>
+                                    <h5><a href="#">HTML CSS từ Zero đến Hero</a></h5>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                     <div class="btn-bar">
                                         <a href="#" class="px-btn-arrow">
@@ -108,11 +108,11 @@
                                         <label>FEB</label>
                                     </div>
                                     <a href="#">
-                                        <img src="https://i.ytimg.com/vi/oF7isq9IjZM/maxresdefault.jpg" title="" alt="">
+                                        <img src="	https://files.fullstack.edu.vn/f8-prod/courses/3.png" title="" alt="">
                                     </a>
                                 </div>
                                 <div class="blog-info">
-                                    <h5><a href="#">Làm sao để có thu nhập cao và đi xa hơn trong ngành IT?</a></h5>
+                                    <h5><a href="#">Responsive Với Grid System</a></h5>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                     <div class="btn-bar">
                                         <a href="#" class="px-btn-arrow">
@@ -131,11 +131,11 @@
                                         <label>FEB</label>
                                     </div>
                                     <a href="#">
-                                        <img src="	https://i.ytimg.com/vi/YH-E4Y3EaT4/maxresdefault.jpg" title="" alt="">
+                                        <img src="https://files.fullstack.edu.vn/f8-prod/courses/13/13.png" title="" alt="">
                                     </a>
                                 </div>
                                 <div class="blog-info">
-                                    <h5><a href="#">Sinh viên IT đi thực tập tại doanh nghiệp cần biết những gì?</a></h5>
+                                    <h5><a href="#">Xây Dựng Website với ReactJS</a></h5>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                     <div class="btn-bar">
                                         <a href="#" class="px-btn-arrow">
@@ -146,8 +146,52 @@
                                 </div>
                             </div>
                         </div>
-                       
-
+                        <div class="col-sm-6">
+                            <div class="blog-grid">
+                                <div class="blog-img">
+                                    <div class="date">
+                                        <span>04</span>
+                                        <label>FEB</label>
+                                    </div>
+                                    <a href="#">
+                                        <img src="https://files.fullstack.edu.vn/f8-prod/courses/6.png" title="" alt="">
+                                    </a>
+                                </div>
+                                <div class="blog-info">
+                                    <h5><a href="#">Node & ExpressJS</a></h5>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <div class="btn-bar">
+                                        <a href="#" class="px-btn-arrow">
+                                            <span>Xem Thêm</span>
+                                            <i class="arrow"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="blog-grid">
+                                <div class="blog-img">
+                                    <div class="date">
+                                        <span>04</span>
+                                        <label>FEB</label>
+                                    </div>
+                                    <a href="#">
+                                        <img src="https://files.fullstack.edu.vn/f8-prod/courses/4/61a9e9e701506.png" title="" alt="">
+                                    </a>
+                                </div>
+                                <div class="blog-info">
+                                    <h5><a href="#">App "Đừng Chạm Tay Lên Mặt"</a></h5>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <div class="btn-bar">
+                                        <a href="#" class="px-btn-arrow">
+                                            <span>Xem Thêm</span>
+                                            <i class="arrow"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         
                     </div>
                 </div>
@@ -166,7 +210,7 @@
                                     </div>
                                     <div class="lpa-meta">
                                         <a class="name" href="#">
-                                            Tuong
+                                            Rachel Roth
                                         </a>
                                         <a class="date" href="#">
                                             26 FEB 2020
@@ -187,7 +231,7 @@
                                     </div>
                                     <div class="lpa-meta">
                                         <a class="name" href="#">
-                                            Tuong
+                                            Rachel Roth
                                         </a>
                                         <a class="date" href="#">
                                             26 FEB 2020
@@ -208,7 +252,7 @@
                                     </div>
                                     <div class="lpa-meta">
                                         <a class="name" href="#">
-                                            Tuong
+                                            Rachel Roth
                                         </a>
                                         <a class="date" href="#">
                                             26 FEB 2020
