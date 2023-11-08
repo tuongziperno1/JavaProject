@@ -32,7 +32,7 @@
 	              <li class="scroll-to-section"><a href="http://localhost:8080/DoAnCuoiKy/News">Tin Tức</a></li>
 	              <li><div class="gradient-button"><a id="modal_trigger" href="http://localhost:8080/DoAnCuoiKy/Login"></i> Đăng Nhập </a></div></li> 
 	            </ul>        
-	            <a class='menu-trigger'>
+ 	            <a class='menu-trigger'>
 	                <span>Menu</span>
 	            </a>
 	            <!-- ***** Menu End ***** -->

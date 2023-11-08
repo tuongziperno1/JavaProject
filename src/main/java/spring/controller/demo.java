@@ -46,4 +46,24 @@ public class demo {
 	{
 		return "View";
 	}
+	@RequestMapping("/Profile")
+	public String Profile()
+	{
+		return "Profile";
+	}
+	@RequestMapping("/Admin")
+	public String Admin()
+	{
+		return "Admin";
+	}
+	@RequestMapping("/CRUD-Course")
+	public String Course()
+	{
+		return "CRUD_Course";
+	}
+	@RequestMapping("/CRUD-User")
+	public String User()
+	{
+		return "CRUD_User";
+	}
 }
